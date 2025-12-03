@@ -128,7 +128,9 @@ nav.sticky {
     border: none;
     cursor: pointer;
 }
-
+.btn-2 a{
+    text-decoration: none;
+}
 .btn-2 i {
     font-size: 32px;
     transition: all 0.2s ease-out;
